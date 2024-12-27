@@ -1,4 +1,4 @@
-# LandSlide Mobile
+# LandSlide
 
 A new Flutter project.
 
